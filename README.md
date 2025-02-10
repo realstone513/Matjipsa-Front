@@ -12,7 +12,7 @@
 - **프론트엔드:** React, TypeScript
 - **스타일링:** Styled-Components, CSS Modules
 - **빌드 및 배포:** GitHub Actions, Docker
-- 
+
 ## 📦 도커 저장소
 
 [![Docker Hub](https://img.shields.io/badge/Docker-Hub-387EB8?logo=docker)](https://hub.docker.com/repository/docker/jiseo/matjipsa-front/general)
